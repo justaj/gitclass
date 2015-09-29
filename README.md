@@ -6,4 +6,3 @@
 ```
 javascript
 var foo = 10 + '20';
-print foo;
